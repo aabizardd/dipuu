@@ -38,3 +38,8 @@
 </head>
 
 <body>
+    <div id="wrapper">
+        <div class="page-wrapper">
+            <!-- header of the page -->
+
+            <?php include 'navbar.php' ?>

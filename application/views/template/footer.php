@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="footer-logo">
-                        <img src="<?= base_url('assets/') ?>img/logo.svg" alt="image-description">
+                        <img src="<?= base_url('assets/') ?>img/logo_app_light.png" alt="roxine" width="250">
                     </div>
                 </div>
                 <div class="col-md-4">

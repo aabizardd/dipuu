@@ -14,8 +14,8 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <a class="navbar-brand mr-auto m-sm-auto" href="index.html"> <img
-                        src="<?= base_url('assets/') ?>img/logo.svg" alt="roxine"> <img
-                        src="<?= base_url('assets/') ?>img/logo-dark.svg" alt="roxine"> </a>
+                        src="<?= base_url('assets/') ?>img/logo_app_light.png" alt="roxine" width="200"> <img
+                        src="<?= base_url('assets/') ?>img/logo_app_dark.png" alt="roxine" width="200"> </a>
                 <div class="collapse navbar-collapse flex-row-reverse" id="mega-menu">
                     <ul class="nav navbar-nav">
                         <li class="dropdown" data-animation="fadeIn">
