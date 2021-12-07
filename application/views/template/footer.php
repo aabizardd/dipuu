@@ -47,7 +47,9 @@
     </div>
 </div>
 
-<a href="#" class="section-scroll" id="scroll-to-top"><i class="fa fa-angle-up"></i></a>
+<a href="#" class="section-scroll" id="scroll-to-top" style="border-radius: 100%;background-color: #2c2c2c;">
+    <i class="fa fa-angle-up" style="color: white;"></i>
+</a>
 <!-- jquery library -->
 <script src="<?= base_url('assets/') ?>vendors/jquery/jquery-2.1.4.min.js"></script>
 <!-- external scripts -->
